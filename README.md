@@ -1,5 +1,3 @@
-# data_portfolio
-
 # Linkedin scrape using Selenium(Python)
 https://www.youtube.com/watch?v=G_zMNPN1Vc0
 
