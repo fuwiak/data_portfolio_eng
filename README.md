@@ -18,6 +18,8 @@ Sample output in **Pandas** dataframe.
 # Scraping data from IMBD.com 
 
 https://youtu.be/qJh9UWZHBD4
+
 https://www.imdb.com/title/tt0468569/fullcredits
 
+![scraped_imdb.png](scraped_imdb.png)
 
